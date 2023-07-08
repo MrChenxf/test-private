@@ -11,3 +11,8 @@ func main(){
     message :=greetings.Hello("gladys")
     fmt.Println(message)
 }
+
+func main(){
+message :=greetings.Hello("gladys")
+fmt.Println(message)
+}
